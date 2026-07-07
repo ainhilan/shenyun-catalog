@@ -1,17 +1,16 @@
 {
-  "version": 2,
+  "version": 3,
+  "updated": "2025-07-07",
   "pieces": [
-    {
-      "title": "Xuân Giang Hoa Nguyệt Dạ",
-      "type": "HAS_DESCRIPTION",
-      "description": "Tác phẩm lấy cảm hứng từ bài thơ nổi tiếng của Trương Nhược Hư đời Đường...",
-      "audioUrl": ""
-    },
     {
       "title": "Tiếu đàm thư viện",
       "type": "HAS_DESCRIPTION",
-      "description": "Tác phẩm Tiếu đàm thư viện kể về những câu chuyện thú vị của cổ nhân trong thư viện, qua đó nhắc nhở con người về đạo lý làm người và tu tâm dưỡng tính.",
-      "audioUrl": ""
+      "description": "Tác phẩm Tiếu đàm thư viện kể về những câu chuyện thú vị của cổ nhân trong thư viện."
+    },
+    {
+      "title": "Bạn đã biết bao nhiêu về lễ nghi Trung Quốc?",
+      "type": "HAS_AUDIO",
+      "audioUrl": "https://raw.githubusercontent.com/ainhilan/shenyun-catalog/main/audio/le_nghi_trung_quoc.mp3"
     }
   ]
 }
