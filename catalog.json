@@ -1,11 +1,17 @@
 {
-  "version": 1,
-  "updated": "2026-07-06",
+  "version": 2,
   "pieces": [
     {
       "title": "Xuân Giang Hoa Nguyệt Dạ",
       "type": "HAS_DESCRIPTION",
-      "description": "Tác phẩm lấy cảm hứng từ bài thơ nổi tiếng của Trương Nhược Hư đời Đường. Âm nhạc mô tả cảnh sông xuân dưới ánh trăng, gợi lên nỗi nhớ quê hương."
+      "description": "Tác phẩm lấy cảm hứng từ bài thơ nổi tiếng của Trương Nhược Hư đời Đường...",
+      "audioUrl": ""
+    },
+    {
+      "title": "Tiếu đàm thư viện",
+      "type": "HAS_DESCRIPTION",
+      "description": "Tác phẩm Tiếu đàm thư viện kể về những câu chuyện thú vị của cổ nhân trong thư viện, qua đó nhắc nhở con người về đạo lý làm người và tu tâm dưỡng tính.",
+      "audioUrl": ""
     }
   ]
 }
